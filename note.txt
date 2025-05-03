@@ -16,3 +16,7 @@ Command in github
 3.git commit -m""=>yesle chai lera jau hai bhanerw chai bhanxa tara ka lera jau chai bhaneko xainw esle 
 4.git remote add origin"esma chai repository ko link rakhne"=>esle chai kun thau ma jane bhanerw location dinxa 
 git push=>esle chai abha kei baki xainw tmi jau bhanerw last Command diye paxi chai yo abha add bhayo hamro github ma 
+5.git log=>esle chai kasle k k change garyo bhanerw herna milxa 
+6.git reset --hard =>
+7.git branch=>yesle chai manxe or developr haru anushar different branch banauna milxa 
+git checkout 
