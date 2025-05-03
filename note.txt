@@ -11,5 +11,8 @@ readme file=>yo chai afno project ko long description halna lai use garinxa
 gitignore=>yo bhaneko chai hamle kei file add garna maan xainw bhane yo use garerw add nagarna sakinxa 
 
 Command in github
-1.git init=>yo chai git lai prayog garauna lai use hune stepp ho yesle chai git lai uthauxa or initialize garxa 
-2.git add .=>yesle chai folder ma bhako sabai 
+1.git init=>yo chai git lai prayog garauna lai use hune step ho yesle chai git lai uthauxa or initialize garxa 
+2.git add .=>yesle chai folder ma bhako sabai file haru chai linxa or bokxa github ma add garna lai 
+3.git commit -m""=>yesle chai lera jau hai bhanerw chai bhanxa tara ka lera jau chai bhaneko xainw esle 
+4.git remote add origin"esma chai repository ko link rakhne"=>esle chai kun thau ma jane bhanerw location dinxa 
+git push=>esle chai abha kei baki xainw tmi jau bhanerw last Command diye paxi chai yo abha add bhayo hamro github ma 
