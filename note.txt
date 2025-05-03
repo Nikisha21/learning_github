@@ -1,0 +1,15 @@
+GitHub=>yo bhaneko chai euta app ho jasma chai hamlee hamro project chai store garna sakxa edi paxi kei gari hamro laptop bigrerw hamro project haru herna payena bhane esko help bata chai hamle hamro project lai access garna sakinxa.Hamro edi space full bhayo bhane esma hamle photos haru pani store garna milxa 
+
+Git=>Git bhaneko chai hamro github ma kei kura rakhda use hune bhariya jasari use hunxa esle chai hamro kei kura github ma rakhnu paryo bhane use hunxa 
+
+git was founded by linus torvalds
+
+repository bhaneko chai github ma kei folder upload garnu paryo bhane chai esma store hunxa 
+
+readme file=>yo chai afno project ko long description halna lai use garinxa 
+
+gitignore=>yo bhaneko chai hamle kei file add garna maan xainw bhane yo use garerw add nagarna sakinxa 
+
+Command in github
+1.git init=>yo chai git lai prayog garauna lai use hune stepp ho yesle chai git lai uthauxa or initialize garxa 
+2.git add .=>yesle chai folder ma bhako sabai 
