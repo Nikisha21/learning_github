@@ -19,4 +19,5 @@ git push=>esle chai abha kei baki xainw tmi jau bhanerw last Command diye paxi c
 5.git log=>esle chai kasle k k change garyo bhanerw herna milxa 
 6.git reset --hard =>
 7.git branch=>yesle chai manxe or developr haru anushar different branch banauna milxa 
-git checkout 
+git checkout ani branch ko naam rakhne=>esle chai kunai branch bhitra jana use hunxa 
+git clone=>esle chai aruko github ko code afno vscode ma lyauna miilxa 
